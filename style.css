@@ -1,0 +1,19 @@
+body{
+   
+}
+.container{
+    background-color: aqua;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+input{
+    width: 40%;
+    margin-top: 10px;
+    font-size: 17px;
+
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
